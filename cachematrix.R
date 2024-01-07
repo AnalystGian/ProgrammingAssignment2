@@ -1,7 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Assignment No.1:
 
-## Write a short comment describing this function
+## This function creates a special "matrix" object that can cache its inverse.
 ## There are two functions makeCacheMatrix, consists of set, get, setinv, getinv.
 
 makeCacheMatrix <- function(x = matrix()) {
@@ -22,7 +21,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
+## Assignment No. 2
 ## This is used to get the cache data
 
 cacheSolve <- function(x, ...) ##gets cache data
